@@ -14,6 +14,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [React-Toastify](https://fkhadra.github.io/react-toastify/installation/)
 -   `Google Firebase`
 
+## 📁 Acesso ao projeto
+
+[Veja o projeto em funcionamento](https://www.linkedin.com/posts/gageldev_react-google-firebase-activity-7052795130553991168-tRmV?utm_source=share&utm_medium=member_desktop).
+
 ## 🛠️ Abrir e rodar o projeto
 
 Primeiro você precisa ter instalado em sua maquina o [Node.js](https://nodejs.org/en/), [Git](https://git-scm.com/) e ter um editor para trabalhar com o codigo como [VSCode](https://code.visualstudio.com/).
